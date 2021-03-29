@@ -1,0 +1,30 @@
+/*selector{
+	property:value;
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+	background-color: #FF69B4;
+}
+a{
+	color:#FFFFFF;
+}
+h2{
+	color: teal;
+	font-family:"Roboto";
+}
+#first-selection{
+	background-color: #FFFFFF: 
+}
+.homeworks{
+	background-color: #00FF00
+}
+h1{
+	color: teal;
+	font-family: "Roboto"
+}
+#first-seelction h1{
+	color: orange;
+	font-family: "Roboto"
+	font-weight:100;
+}
