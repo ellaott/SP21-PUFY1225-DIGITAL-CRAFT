@@ -1,12 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Bebas+Neue&family=Roboto:wght@100&family=Train+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Days+One&family=Libre+Franklin:wght@800&display=swap');
 body{
 	background-color: #DEFFFD;
 }
 
 #first-section{
-	font-family: "Bebas Neue";
+	font-size: 30px;
+	font-family: "Libre Franklin";
 	color:teal;
 	text-align: center;
 
@@ -18,6 +19,9 @@ body{
 	vertical-align: bottom;
 }
 h4{
+	position: relative;
+	top: 30px;
+	font-size: 20px;
 	font-family:"Roboto";
 	color: #DA68B7;
 	text-align:center;
@@ -31,20 +35,30 @@ h4{
 	width: 100px;
 }
 
-#third-section{
+#third-section img{
+	position: relative;
+	width: 150px;
+
+}
+
+#fourth-section{
 	position: relative;
 	text-indent: 50px;
 	color: #68AADA;
-	font-family: "Arimo"
-
-
+	font-size: 30px;
+	font-family: "Bebas Neue"
 
 }
+
 ol{
 	position: relative;
 	left:50px;
+	bottom:20px;
 	color: red;
 	text-indent: -1px;
+	font-size: 20px;
+	font-family:"Arimo"
+
 
 }
 p{
