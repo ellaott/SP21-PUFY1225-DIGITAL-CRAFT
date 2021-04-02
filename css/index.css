@@ -32,10 +32,19 @@ h4{
 }
 
 #third-section{
+	position: relative;
 	text-indent: 50px;
 	color: #68AADA;
 	font-family: "Arimo"
 
+
+
+}
+ol{
+	position: relative;
+	left:50px;
+	color: red;
+	text-indent: -1px;
 
 }
 p{
