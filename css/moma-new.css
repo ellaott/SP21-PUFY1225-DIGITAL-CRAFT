@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@800&display=swap');
+
+#first-section{
+	position:relative;
+	top:0px;
+	left:230px;
+	font-size: 30px;
+	font-family: "Libre Franklin"
+
+}
+#second-section a{
+	position: absolute;
+	top:45px;
+	text-decoration: none;
+	font-family:"Libre Franklin";
+	color: #3399cc;
+	padding-left: 1000px;
+
+	
+
+}
+#third-section a{
+	position: absolute;
+	top:58px;
+	text-decoration: none;
+	font-family:"Libre Franklin";
+	color: #3399cc;
+	padding-left: 1255px;
+	line-height: 0px;
+
+}
+
+#fourth-section a{
+	position: absolute;
+	top:120px;
+	left: 240px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family:"libre franklin";
+	color: black;
+}
+#fifth-section a{
+	position: absolute;
+	top:120px;
+	left: 410px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family:"libre franklin";
+	color: black;
+}
+
+#sixth-section a{
+	position: absolute;
+	top:120px;
+	left: 540px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family:"libre franklin";
+	color: black;
+}
+
+#seventh-section a{
+	position: absolute;
+	top:120px;
+	left:715px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family:"libre franklin";
+	color: black;
+}
+
+#eighth-section a{
+	position: absolute;
+	top:110px;
+	left:780px;
+	width: 1px;
+}
+
+#tenth-section a{
+	position: relative;
+	top:-10px;
+
+}
+
+
+

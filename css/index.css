@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Bebas+Neue&family=Roboto:wght@100&family=Train+One&display=swap');
+
+body{
+	background-color: #DEFFFD;
+}
+
+#first-section{
+	font-family: "Bebas Neue";
+	color:teal;
+	text-align: center;
+
+	height:10px;
+}
+
+
+.text-to-align{
+	vertical-align: bottom;
+}
+h4{
+	font-family:"Roboto";
+	color: #DA68B7;
+	text-align:center;
+}
+
+.center{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	position: relative;top:-30px;
+	width: 100px;
+}
+
+#third-section{
+	text-indent: 50px;
+	color: #68AADA;
+	font-family: "Arimo"
+
+
+}
+p{
+	text-indent: 50px;
+}
+a:visited{
+	color:#FFA2A2;
+}
+
+a:link{
+	color:#ABFFAD;
+}
+
+a:hover{
+	color:hotpink;
+}
