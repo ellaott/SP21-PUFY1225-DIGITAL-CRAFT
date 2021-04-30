@@ -1,7 +1,7 @@
 function setup() {
   createCanvas(400, 400);
   noStroke();
-  frameRate(8);
+  frameRate(7);
   
 }
 
