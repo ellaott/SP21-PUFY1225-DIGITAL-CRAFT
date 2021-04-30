@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(400, 400, SVG);
   noStroke();
   frameRate(8);
   noLoop();
@@ -30,6 +30,6 @@ function draw() {
    fill(random(0,255),random(0,255),random(0,255),50);
   ellipse(340,200,random(20,100), 100);
   
-  
+  save();
 }
 
